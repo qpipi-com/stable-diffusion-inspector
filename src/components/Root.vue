@@ -1,6 +1,6 @@
 <template>
   <div class="text-center p-6 max-w-1024px mx-auto">
-    <h1 class="font-bold text-3xl">Stable Diffusion 绘画法术解析</h1>
+    <h1 class="font-bold text-3xl">Stable Diffusion 绘画法术解析 Qpipi</h1>
     <p class="text-gray-500 my-2 text-sm">
       读取 Stable Diffusion 图片提示 prompt
     </p>
@@ -82,9 +82,9 @@
     <div class="my-4 pt-4">
       <span class="inline-block mt-2 text-sm text-gray-500">
         Made with ❤️ by
-        <a class="text-gray-500" href="https://github.com/Akegarasu">@Akegarasu</a>
-        <a> | </a>
-        <a class="text-gray-500" href="https://www.qpipi.com">Qpipi.com</a>
+        <a class="text-gray-500" href="https://github.com/Akegarasu" target="_blank">@Akegarasu</a>
+        <a> | </a>🐽
+        <a class="text-gray-500" href="https://www.qpipi.com" target="_blank">Qpipi.com</a>
         <a> | </a>
         <a class="text-gray-500">Build: {{ commitHash }}</a>
       </span>
