@@ -77,7 +77,7 @@
     </div>
 
     <p class="text-gray-500 my-2 text-sm">
-      *运算数据不会在云端保存
+      将AI绘制的图片拖放入读取框，自动获取图像的TAG Prompt提示。
     </p>
     <div class="my-4 pt-4">
       <span class="inline-block mt-2 text-sm text-gray-500">
